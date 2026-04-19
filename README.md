@@ -15,11 +15,11 @@ A modern and responsive fashion e-commerce website built using **React + Vite + 
 -  Fully responsive design
 -  Premium modern UI with Tailwind CSS
 -  React Router navigation
--  Hover animations & premium cards
+-  Hover animations 
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 🌐 Live Website: https://fantastic-phoenix-1791fb.netlify.app/ 
 
@@ -33,6 +33,11 @@ A modern and responsive fashion e-commerce website built using **React + Vite + 
 - Sign Up form
 
 <img src="https://github.com/Bishal-chy/webfashion-ecom-react/blob/004c0e9f77bebca60dbf8dc2698ebe0510854ea8/screenshots/Screenshot%202026-04-19%20at%2011.48.41.png" width="400" height="400" title="Sign Up">
+
+- Products Card
+
+<img src="https://github.com/Bishal-chy/webfashion-ecom-react/blob/b4a32db6bf681fd9f3ba0bc8d68fa706b2b78bc7/screenshots/Screenshot%202026-04-19%20at%2011.49.06.png" width="400" height="400" title="products">
+
 
 
 
@@ -107,4 +112,8 @@ src/
 │
 │── App.jsx
 │── main.jsx
+
+
+---
+
 
