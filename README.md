@@ -21,7 +21,7 @@ A modern and responsive fashion e-commerce website built using **React + Vite + 
 
 ##  Live Demo
 
-🌐 Live Website: https://fantastic-phoenix-1791fb.netlify.app/ 
+- Live Website: https://fantastic-phoenix-1791fb.netlify.app/ 
 
 ---
 
@@ -55,7 +55,7 @@ A modern and responsive fashion e-commerce website built using **React + Vite + 
 
 ---
 
-### 🎨 UI / UX
+###  UI / UX
 - Modern glassmorphism-inspired UI
 - Fully responsive (mobile-first design)
 - Smooth hover animations
@@ -64,12 +64,12 @@ A modern and responsive fashion e-commerce website built using **React + Vite + 
 
 ---
 
-### 🔐 Authentication
+###  Authentication
 - Secure login/signup using Clerk
 
 ---
 
-### 🚏 Routing
+###  Routing
 - Home page
 - Product listing page
 - Category pages
@@ -77,7 +77,7 @@ A modern and responsive fashion e-commerce website built using **React + Vite + 
 
 ---
 
-## 🔗 API Reference
+##  API Reference
 
 This project uses **Fake Store API**:
 
