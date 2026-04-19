@@ -25,6 +25,13 @@ A modern and responsive fashion e-commerce website built using **React + Vite + 
 
 ---
 
+## Project Images
+
+- Hero Section
+<img src="https://github.com/Bishal-chy/webfashion-ecom-react/blob/698c2ba249e8b755d7c04a46029f67189df54598/screenshots/Screenshot%202026-04-19%20at%2011.48.11.png" alt="hero section" width="400" height="400" title="website hero section">
+
+- Sign Up form
+
 
 
 ##  Tech Stack
