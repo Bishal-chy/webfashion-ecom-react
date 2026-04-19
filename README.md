@@ -32,6 +32,8 @@ A modern and responsive fashion e-commerce website built using **React + Vite + 
 
 - Sign Up form
 
+<img src="https://github.com/Bishal-chy/webfashion-ecom-react/blob/004c0e9f77bebca60dbf8dc2698ebe0510854ea8/screenshots/Screenshot%202026-04-19%20at%2011.48.41.png" width="400" height="400" title="Sign Up">
+
 
 
 ##  Tech Stack
