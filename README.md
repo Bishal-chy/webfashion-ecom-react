@@ -1,16 +1,101 @@
-# React + Vite
+#  FashionWeb E-Commerce React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive fashion e-commerce website built using **React + Vite + Tailwind CSS** with smooth animations, product filtering, category pages, authentication, and API-powered product data.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+##  Live Features
 
-## React Compiler
+-  Product listing from Fake Store API
+-  Category-based product filtering
+-  Single product details page
+-  Hero carousel slider using React Slick
+-  Scroll animations with AOS
+-  Authentication with Clerk
+-  Fully responsive design
+-  Premium modern UI with Tailwind CSS
+-  React Router navigation
+-  Hover animations & premium cards
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌐 Live Website: https://fantastic-phoenix-1791fb.netlify.app/ 
+
+---
+
+
+
+##  Tech Stack
+
+- **React 19**
+- **Vite**
+- **Tailwind CSS**
+- **React Router DOM**
+- **Axios**
+- **React Slick**
+- **AOS Animation**
+- **Clerk Authentication**
+- **Fake Store API**
+
+---
+
+### 🎨 UI / UX
+- Modern glassmorphism-inspired UI
+- Fully responsive (mobile-first design)
+- Smooth hover animations
+- Carousel hero section
+- Scroll animations (AOS)
+
+---
+
+### 🔐 Authentication
+- Secure login/signup using Clerk
+
+---
+
+### 🚏 Routing
+- Home page
+- Product listing page
+- Category pages
+- Product details page
+
+---
+
+## 🔗 API Reference
+
+This project uses **Fake Store API**:
+
+- Base URL: https://fakestoreapi.com/products
+- Single Product: https://fakestoreapi.com/products/{id}
+- Categories: https://fakestoreapi.com/products/categories
+
+---
+
+
+##  Folder Structure
+
+```bash
+src/
+│── assets/
+│── components/
+│   ├── Navbar.jsx
+│   ├── Carousel.jsx
+│   ├── Category.jsx
+│   ├── ProductCard.jsx
+│   ├── HomeCard.jsx
+│   ├── Footer.jsx
+│   ├── SingleProduct.jsx
+│   └── CategoryProduct.jsx
+│
+│── context/
+│   └── DataContext.jsx
+│
+│── pages/
+│   ├── Home.jsx
+│   └── Product.jsx
+│
+│── App.jsx
+│── main.jsx
+
